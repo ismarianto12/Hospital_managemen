@@ -1,0 +1,8 @@
+alur sistem informasi pendaftaran pasien rumah sakit
+
+alur sistem :
+
+ 1. calon pendaftar harus daftar terlebih dahulu dan redirect via OTP
+ 2. verifikasi via otp
+ 3. jika verifikasi OTP berhasil maka username dan password berhasil di kirim ke email pasien rumah sakit
+
